@@ -1,0 +1,8 @@
+# 凭据不进仓库
+password.md
+
+# Obsidian 的机器相关配置
+.obsidian/
+
+# 写作模板只留本地
+_模板.md
